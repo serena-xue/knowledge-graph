@@ -44,7 +44,7 @@ Memebers: Qing (Serena) Xue, Li Jiang, Xingyi Du, Minqi Zhou
 
 The final knowledge graph shows the relationships between various entities like companies, technologies, and key figures in the metaverse space. This visualization provides valuable insights and helps to identify patterns within the evolving metaverse landscape.
 
-![Knowledge Graph Output](image.png)
+![Knowledge Graph Output](result.png)
 
 ## Future Work
 
