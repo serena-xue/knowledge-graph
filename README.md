@@ -2,6 +2,8 @@
 
 This project focuses on constructing a domain-specific knowledge graph for the metaverse by leveraging web scraping techniques, natural language processing (NLP), and graph databases. The goal is to extract and visualize relationships between entities in the metaverse field, providing insightful analysis for researchers and industry professionals.
 
+Memebers: Qing (Serena) Xue, Li Jiang, Xingyi Du, Minqi Zhou
+
 ## Project Overview
 
 - **Domain**: Metaverse
